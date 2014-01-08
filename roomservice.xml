@@ -11,8 +11,8 @@
 <!-- Samsung -->
   <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-11.0" />
-<!-- LG
-  <project name="CyanogenMod/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="cm-11.0" /> -->
+<!-- LG -->
+  <project name="CyanogenMod/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="cm-11.0" />
 <!-- HTC -->
   <project name="CyanogenMod/android_device_htc_m7spr" path="device/htc/m7spr" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_device_htc_m7vzw" path="device/htc/m7vrz" remote="gh" revision="cm-11.0" />
