@@ -57,6 +57,8 @@
    <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="gh" revision="cm-11.0" />
   <!-- HTC -->
    <project name="CyanogenMod/android_kernel_htc_m7" path="kernel/htc/m7" remote="gh" revision="cm-11.0" />
+  <!-- Google -->
+   <project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="gh" revision="cm-11.0" />
 
 <!-- Apps and Hardware -->
   <!-- Samsung -->
