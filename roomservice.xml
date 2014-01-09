@@ -35,6 +35,7 @@
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="gh" revision="cm-11.0" /> 
+  <project name="CyanogenMod/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="gh" revision="cm-11.0" />
 <!-- LG -->
   <project name="CyanogenMod/android_device_lge_g2-common" path="device/lge/g2-common" remote="gh" revision="cm-11.0" />
 <!-- HTC -->
