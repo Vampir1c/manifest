@@ -54,6 +54,7 @@
   <project name="CyanogenMod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="gh" revision="cm-11.0" />
 <!-- LG -->
   <project name="CyanogenMod/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="gh" revision="cm-11.0" />
+  <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="gh" revision="cm-11.0" />
 <!-- HTC -->
   <project name="CyanogenMod/android_kernel_htc_m7" path="kernel/htc/m7" remote="gh" revision="cm-11.0" />
 
