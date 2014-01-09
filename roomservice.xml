@@ -48,6 +48,7 @@
 <!-- Samsung -->
   <project name="CyanogenMod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="gh" revision="cm-11.0" />
+  <project name="CyanogenMod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="gh" revision="cm-11.0" />
 <!-- LG -->
   <project name="CyanogenMod/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="gh" revision="cm-11.0" />
 <!-- HTC -->
