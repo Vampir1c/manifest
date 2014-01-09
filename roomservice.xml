@@ -4,7 +4,6 @@
   <remote name="gh" fetch="git://github.com/" />
 
 <!-- Device Trees -->
-
   <!-- Motorola -->
    <project name="CyanogenMod/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_xt925" path="device/motorola/xt925" remote="gh" revision="cm-11.0" />
@@ -28,7 +27,6 @@
    <project name="CyanogenMod/android_device_htc_m7spr" path="device/htc/m7spr" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_htc_m7vzw" path="device/htc/m7vzw" remote="gh" revision="cm-11.0" />
 <!-- Device Commons -->
-
   <!-- Motorola -->
    <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="gh" revision="cm-11.0" />
@@ -47,7 +45,6 @@
    <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="gh" revision="cm-11.0" />
 
 <!-- Device Kernels -->
-
   <!-- Motorola -->
    <project name="CyanogenMod/android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" path="kernel/motorola/msm8960dt-common" remote="gh" revision="cm-11.0" />
@@ -62,13 +59,11 @@
    <project name="CyanogenMod/android_kernel_htc_m7" path="kernel/htc/m7" remote="gh" revision="cm-11.0" />
 
 <!-- Apps and Hardware -->
-
   <!-- Samsung -->
    <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="gh" revision="cm-11.0" />
 
 <!-- Device Blobs -->
-
   <!-- Motorola -->
    <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
