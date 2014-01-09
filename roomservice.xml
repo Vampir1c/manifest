@@ -21,11 +21,12 @@
 <!-- HTC -->
   <project name="CyanogenMod/android_device_htc_m7spr" path="device/htc/m7spr" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_device_htc_m7vzw" path="device/htc/m7vzw" remote="gh" revision="cm-11.0" />
-
 <!-- Device Commons -->
 <!-- Motorola -->
   <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="gh" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_motorola_msm8960dt-common" path="device/motorola/msm8960dt-common" remote="gh" revision="cm-11.0" />
+  
 <!-- Samsung -->
   <project name="CyanogenMod/android_device_samsung_omap4-common" path="device/samsung/omap4-common" remote="gh" revision="cm-11.0" />
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="cm-11.0" />
