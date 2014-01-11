@@ -64,7 +64,7 @@
   <!-- Samsung -->
    <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="gh" revision="cm-11.0" />
-   <project name="pjgraberTWO/ViPER4Android_fx" path="packages/apps" remote="gh" revision="master" />
+   <!-- <project name="pjgraberTWO/ViPER4Android_fx" path="packages/apps" remote="gh" revision="master" /> -->
 
 <!-- Device Blobs -->
   <!-- Motorola -->
