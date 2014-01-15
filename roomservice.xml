@@ -19,6 +19,7 @@
    <project name="CyanogenMod/android_device_samsung_d2vzw" path="device/samsung/d2vzw" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" remote="gh" revision="cm-11.0" />
+   <project name="CyanogenMod/android_device_samsung_epic4g" path="device/samsung/epic4g" remote="gh"revision="cm-11.0" />
   <!-- LG -->
    <project name="CyanogenMod/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_lge_mako" path="device/lge/mako" remote="gh" revision="cm-11.0" />
