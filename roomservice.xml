@@ -13,7 +13,7 @@
    <project name="CyanogenMod/android_device_motorola_xt1053" path="device/motorola/xt1053" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_xt897" path="device/motorola/xt897" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
-   <!-- <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="gh" revision="cm-11.0" /> -->
+   <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="gh" revision="cm-11.0" /> 
    <project name="CyanogenMod/android_device_samsung_p3100" path="device/samsung/p3100" remote="gh" revision="cm-11.0" />
    <!-- <project name="CyanogenMod/android_device_samsung_p3113" path='device/samsung/p3113' remote="gh" revision="cm-11.0" /> -->
    <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-11.0" />
