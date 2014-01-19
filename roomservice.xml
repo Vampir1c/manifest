@@ -31,7 +31,7 @@
    <project name="CyanogenMod/android_device_htc_m7vzw" path="device/htc/m7vzw" remote="gh" revision="cm-11.0" />
    <!-- <project name="Cyanogenmod/android_device_htc_m7tmo" path="device/htc/m7tmo" remote="gh" revision="cm-11.0" /> -->
   <!-- Asus -->   
-   <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote"gh" revision="cm-11.0" />
+   <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="gh" revision="cm-11.0" />
 
 <!-- Device Commons -->
   <!-- Motorola -->
