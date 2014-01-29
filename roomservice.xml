@@ -22,6 +22,8 @@
    <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" remote="gh" revision="cm-11.0" />
    <!-- <project name="CyanogenMod/android_device_samsung_epic4g" path="device/samsung/epic4g" remote="gh"revision="cm-11.0" /> -->
+   <project name="kumajaya/android_device_samsung_lt01wifi" path="device/samsung/lt01wifi" remote="gh" revision="cm-11.0" />
+   <project name="kumajaya/android_device_samsung_lt013g" path="device/samsung/lt013g" remote="gh" revision="cm-11.0" />
   <!-- LG -->
    <project name="CyanogenMod/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_lge_mako" path="device/lge/mako" remote="gh" revision="cm-11.0" />
@@ -45,6 +47,8 @@
    <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="gh" revision="cm-11.0" /> 
    <project name="CyanogenMod/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="gh" revision="cm-11.0" />
+   <project name="kumajaya/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="gh" revision="cm-11.0" />
+   <project name="kumajaya/android_device_samsung_lt01-common" path="device/samsung/lt01-common" remote="gh" revision="cm-11.0" />
   <!-- LG -->
    <project name="CyanogenMod/android_device_lge_g2-common" path="device/lge/g2-common" remote="gh" revision="cm-11.0" />
   <!-- HTC -->
@@ -59,6 +63,7 @@
    <project name="CyanogenMod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="gh" revision="cm-11.0" />
+   <project name="kumajaya/android_kernel_samsung_lt01" path="kernel/samsung/lt01" remote="gh" revision="cm-11.0" />
   <!-- LG -->
    <project name="CyanogenMod/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="gh" revision="cm-11.0" />
