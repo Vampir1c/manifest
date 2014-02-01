@@ -84,6 +84,7 @@
    <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
    <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" revision="cm-11.0" />
+   <project name="kumajaya/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" revision="cm-11.0" />
   <!-- LG -->
    <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="gh" revision="cm-11.0" />    
   <!-- HTC -->
