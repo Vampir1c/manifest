@@ -2,7 +2,12 @@
 <manifest>
 
   <remote name="gh" fetch="git://github.com/" />
+  
+<!-- Beanstalk removals -->
+  <remove-project name="scotthartbti/proprietary_vendor_cm" />
 
+<!-- CM Vendor  -->
+  <project name="GraberRoms/proprietary_vendor_cm" path="vendor/cm" remote="gh" revision="kk44" />
 <!-- Device Trees -->
   <!-- Motorola -->
    <project name="CyanogenMod/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" />
