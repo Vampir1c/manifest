@@ -25,7 +25,7 @@
    <project name="kumajaya/android_device_samsung_lt01wifi" path="device/samsung/lt01wifi" remote="gh" revision="cm-11.0" />
    <project name="kumajaya/android_device_samsung_lt013g" path="device/samsung/lt013g" remote="gh" revision="cm-11.0" />
   <!-- LG -->
-   <project name="CyanogenMod/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="cm-11.0" />
+   <project name="GraberRoms/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_lge_mako" path="device/lge/mako" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_lge_hammerhead" path="device/lge/hammerhead" remote="gh" revision="cm-11.0" />
   <!-- HTC -->
@@ -46,7 +46,7 @@
    <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="gh" revision="cm-11.0" /> 
-   <project name="CyanogenMod/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="gh" revision="cm-11.0" />
+   <project name="GraberRoms/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="gh" revision="cm-11.0" />
    <project name="kumajaya/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="gh" revision="cm-11.0" />
    <project name="kumajaya/android_device_samsung_lt01-common" path="device/samsung/lt01-common" remote="gh" revision="cm-11.0" />
   <!-- LG -->
