@@ -17,6 +17,7 @@
    <project name="GraberRoms/android_device_motorola_xt1058" path="device/motorola/xt1058" remote="gh" revision="cm-11.0" />
    <project name="GraberRoms/android_device_motorola_xt1053" path="device/motorola/xt1053" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_xt897" path="device/motorola/xt897" remote="gh" revision="cm-11.0" />
+   <project name="GraberRoms/android_device_motorola_spyder" path="device/motorola/spyder" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
    <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="gh" revision="cm-11.0" /> 
    <project name="CyanogenMod/android_device_samsung_p3100" path="device/samsung/p3100" remote="gh" revision="cm-11.0" />
@@ -45,7 +46,7 @@
    <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_msm8960dt-common" path="device/motorola/msm8960dt-common" remote="gh" revision="cm-11.0" />
-  
+   <project name="GraberRoms/android_device_motorola_omap4-common" path="device/motorola/omap4-common" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
    <project name="CyanogenMod/android_device_samsung_omap4-common" path="device/samsung/omap4-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="cm-11.0" />
@@ -64,6 +65,7 @@
   <!-- Motorola -->
    <project name="CyanogenMod/android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" path="kernel/motorola/msm8960dt-common" remote="gh" revision="cm-11.0" />
+   <project name="GraberRoms/android_kernel_motorola_omap4-common" path="kernel/motorola/omap4-common" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
    <project name="CyanogenMod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="gh" revision="cm-11.0" />
