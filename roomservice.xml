@@ -8,6 +8,7 @@
 
 <!-- CM Vendor  -->
   <project name="GraberRoms/proprietary_vendor_cm" path="vendor/cm" remote="gh" revision="kk44" />
+  
 <!-- Device Trees -->
   <!-- Motorola -->
    <project name="GraberRoms/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" />
@@ -43,7 +44,7 @@
 
 <!-- Device Commons -->
   <!-- Motorola -->
-   <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
+   <project name="GraberRoms/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_msm8960dt-common" path="device/motorola/msm8960dt-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_motorola_omap4-common" path="device/motorola/omap4-common" remote="gh" revision="cm-11.0" />
