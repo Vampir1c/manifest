@@ -38,9 +38,9 @@
    <!-- <project name="CyanogenMod/android_device_samsung_p3113" path='device/samsung/p3113' remote="gh" revision="cm-11.0" /> -->
    <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_samsung_jfltespr" path="device/samsung/jfltespr" remote="gh" revision="cm-11.0" />
-   <project name="GraberRoms/android_device_samsung_d2vzw" path="device/samsung/d2vzw" remote="gh" revision="cm-11.0" />
-   <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" remote="gh" revision="cm-11.0" />
-   <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" remote="gh" revision="cm-11.0" />
+   <!-- <project name="GraberRoms/android_device_samsung_d2vzw" path="device/samsung/d2vzw" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" remote="gh" revision="cm-11.0" /> -->
    <!-- <project name="CyanogenMod/android_device_samsung_epic4g" path="device/samsung/epic4g" remote="gh"revision="cm-11.0" /> -->
    <project name="kumajaya/android_device_samsung_lt01wifi" path="device/samsung/lt01wifi" remote="gh" revision="cm-11.0" />
    <project name="kumajaya/android_device_samsung_lt013g" path="device/samsung/lt013g" remote="gh" revision="cm-11.0" />
