@@ -18,10 +18,14 @@
    <!-- Moto msm8960dt tree (xt1053,xt1055,xt1056,xt1058,xt1060,xt1080) -->
     <project name="CyanogenMod/android_device_motorola_moto_msm8960dt" path="device/motorola/moto_msm8960dt" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
-   <!-- Samsung S3 tree (d2att,d2cri,d2mtr,d2spr,d2tmo,d2usc,d2vzw) -->
+   <!-- Samsung S3 tree (d2: att,cri,mtr,spr,tmo,usc,vzw) -->
     <project name="CyanogenMod/android_device_samsung_d2lte" path="device/samsung/d2lte" remote="gh" revision="cm-11.0" /> 
-   <!-- Samsung S3 common -->
-    <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="gh" revision"cm-11.0" />
+   <!-- Samsung S4 tree (jflte: att,can,cri,csp,spr,tmo,usc,vzw,exx) -->
+    <project name="CyanogenMod/android_device_samsung_jflte" path="device/samsung/jflte" remote="gh" revision="cm-11.0" />
+   <!-- Samsung Note 3 tree (hlte: spr,tmo,vzw,exx -->
+    <project name="CyanogenMod/android_device_samsung_hlte" path="device/samsung/hlte" remote="gh" revision="cm11-0" />
+   <!-- Samsung S3, S4 & Note 3 common -->
+    <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="gh" revision="cm-11.0" />
 <!-- Device Trees -->
   <!-- Motorola -->
    <!-- <project name="GraberRoms/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" /> -->
@@ -36,8 +40,8 @@
    <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="gh" revision="cm-11.0" /> 
    <project name="CyanogenMod/android_device_samsung_p3100" path="device/samsung/p3100" remote="gh" revision="cm-11.0" />
    <!-- <project name="CyanogenMod/android_device_samsung_p3113" path='device/samsung/p3113' remote="gh" revision="cm-11.0" /> -->
-   <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-11.0" />
-   <project name="CyanogenMod/android_device_samsung_jfltespr" path="device/samsung/jfltespr" remote="gh" revision="cm-11.0" />
+   <!-- <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_jfltespr" path="device/samsung/jfltespr" remote="gh" revision="cm-11.0" /> -->
    <!-- <project name="GraberRoms/android_device_samsung_d2vzw" path="device/samsung/d2vzw" remote="gh" revision="cm-11.0" /> -->
    <!-- <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" remote="gh" revision="cm-11.0" /> -->
    <!-- <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" remote="gh" revision="cm-11.0" /> -->
@@ -85,6 +89,7 @@
    <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="gh" revision="cm-11.0" />
    <project name="kumajaya/android_kernel_samsung_smdk4x12" path="kernel/samsung/smdk4x12" remote="gh" revision="cm-11.0" />
+   <project name="CyanogenMod/android_kernel_samsung_hlte" path="kernel/samsung/hlte" remote="gh" revision="cm-11.0" />
   <!-- LG -->
    <project name="CyanogenMod/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="gh" revision="cm-11.0" />
@@ -99,7 +104,9 @@
   <!-- Samsung -->
    <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="gh" revision="cm-11.0" />
-
+   <project name="CyanogenMod/android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="gh" revision="cm-11.0" />
+   <project name="CyanogenMod/android_hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" remote="gh" revision="cm-11.0" />
+  
 <!-- Device Blobs -->
   <!-- Motorola -->
    <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
