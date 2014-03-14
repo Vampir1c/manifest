@@ -8,16 +8,24 @@
 
 <!-- CM Vendor  -->
   <project name="GraberRoms/proprietary_vendor_cm" path="vendor/cm" remote="gh" revision="kk44" />
-  
+ 
+<!-- Unified Builds -->
+  <!-- Moto msm8960 tree (xt897,mb886,xt907,xt905,xt901,xt926,xt925) -->
+   <project name="CyanogenMod/android_device_motorola_moto_msm8960" path="device/motorola/msm8960" remote="gh" revision="cm-11.0" />
+  <!-- Moto msm8960 & msm8960dt common --> 
+   <project name="CyanogenMod/android_device_motorola_qcom_common" path="device/qcom/common" remote="gh" revision="cm-11.0" />
+  <!-- Moto msm8960dt tree (xt1053,xt1055,xt1056,xt1058,xt1060,xt1080) -->
+   <project name="CyanogenMod/android_device_motorola_moto_msm8960dt" path="device/motorola/msm8960dt" remote="gh" revision="cm-11.0" />
+   
 <!-- Device Trees -->
   <!-- Motorola -->
-   <project name="GraberRoms/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" />
-   <project name="GraberRoms/android_device_motorola_xt925" path="device/motorola/xt925" remote="gh" revision="cm-11.0" />
-   <project name="GraberRoms/android_device_motorola_xt926" path="device/motorola/xt926" remote="gh" revision="cm-11.0" />
-   <project name="GraberRoms/android_device_motorola_xt1060" path="device/motorola/xt1060" remote="gh" revision="cm-11.0" />
-   <project name="GraberRoms/android_device_motorola_xt1058" path="device/motorola/xt1058" remote="gh" revision="cm-11.0" />
-   <project name="GraberRoms/android_device_motorola_xt1053" path="device/motorola/xt1053" remote="gh" revision="cm-11.0" />
-   <project name="CyanogenMod/android_device_motorola_xt897" path="device/motorola/xt897" remote="gh" revision="cm-11.0" />
+   <!-- <project name="GraberRoms/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt925" path="device/motorola/xt925" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt926" path="device/motorola/xt926" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt1060" path="device/motorola/xt1060" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt1058" path="device/motorola/xt1058" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt1053" path="device/motorola/xt1053" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_motorola_xt897" path="device/motorola/xt897" remote="gh" revision="cm-11.0" /> -->
    <project name="CyanogenMod/android_device_motorola_spyder" path="device/motorola/spyder" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
    <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="gh" revision="cm-11.0" /> 
@@ -61,7 +69,7 @@
   <!-- HTC -->
    <project name="CyanogenMod/android_device_htc_m7-common" path="device/htc/m7-common" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="gh" revision="cm-11.0" />
-
+   
 <!-- Device Kernels -->
   <!-- Motorola -->
    <project name="CyanogenMod/android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="gh" revision="cm-11.0" />
