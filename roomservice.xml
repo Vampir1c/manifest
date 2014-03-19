@@ -25,7 +25,7 @@
    <!-- Samsung Note 3 tree (hlte: spr,tmo,vzw,exx -->
     <project name="CyanogenMod/android_device_samsung_hlte" path="device/samsung/hlte" remote="gh" revision="cm11-0" />
    <!-- Samsung S3, S4 & Note 3 common -->
-    <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="gh" revision="cm-11.0" />
+    <project name="CyanogenMod/android_device_qcom_common" path="device/samsung_qcom/common" remote="gh" revision="cm-11.0" />
 <!-- Device Trees -->
   <!-- Motorola -->
    <!-- <project name="GraberRoms/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" /> -->
