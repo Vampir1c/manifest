@@ -24,27 +24,13 @@
     <project name="CyanogenMod/android_device_samsung_jflte" path="device/samsung/jflte" remote="gh" revision="cm-11.0" />
    <!-- Samsung Note 3 tree (hlte: spr,tmo,vzw,exx -->
     <project name="CyanogenMod/android_device_samsung_hlte" path="device/samsung/hlte" remote="gh" revision="cm-11.0" />
-   <!-- Samsung S3, S4 & Note 3 common -->
-    <!-- <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="gh" revision="cm-11.0" /> -->
+
 <!-- Device Trees -->
   <!-- Motorola -->
-   <!-- <project name="GraberRoms/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="GraberRoms/android_device_motorola_xt925" path="device/motorola/xt925" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="GraberRoms/android_device_motorola_xt926" path="device/motorola/xt926" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="GraberRoms/android_device_motorola_xt1060" path="device/motorola/xt1060" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="GraberRoms/android_device_motorola_xt1058" path="device/motorola/xt1058" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="GraberRoms/android_device_motorola_xt1053" path="device/motorola/xt1053" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="CyanogenMod/android_device_motorola_xt897" path="device/motorola/xt897" remote="gh" revision="cm-11.0" /> -->
    <project name="CyanogenMod/android_device_motorola_spyder" path="device/motorola/spyder" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
    <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="gh" revision="cm-11.0" /> 
    <project name="CyanogenMod/android_device_samsung_p3100" path="device/samsung/p3100" remote="gh" revision="cm-11.0" />
-   <!-- <project name="CyanogenMod/android_device_samsung_p3113" path='device/samsung/p3113' remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="CyanogenMod/android_device_samsung_jfltespr" path="device/samsung/jfltespr" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="GraberRoms/android_device_samsung_d2vzw" path="device/samsung/d2vzw" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" remote="gh" revision="cm-11.0" /> -->
-   <!-- <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" remote="gh" revision="cm-11.0" /> -->
    <!-- <project name="CyanogenMod/android_device_samsung_epic4g" path="device/samsung/epic4g" remote="gh"revision="cm-11.0" /> -->
    <project name="kumajaya/android_device_samsung_lt01wifi" path="device/samsung/lt01wifi" remote="gh" revision="cm-11.0" />
    <project name="kumajaya/android_device_samsung_lt013g" path="device/samsung/lt013g" remote="gh" revision="cm-11.0" />
@@ -57,7 +43,6 @@
   <!-- HTC -->
    <project name="CyanogenMod/android_device_htc_m7spr" path="device/htc/m7spr" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_htc_m7vzw" path="device/htc/m7vzw" remote="gh" revision="cm-11.0" />
-   <!-- <project name="Cyanogenmod/android_device_htc_m7tmo" path="device/htc/m7tmo" remote="gh" revision="cm-11.0" /> -->
   <!-- Asus -->   
    <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="gh" revision="cm-11.0" />
    <project name="CyanogenMod/android_device_asus_flo" path="device/asus/flo" remote="gh" revision="cm-11.0" />
@@ -125,4 +110,19 @@
   <!-- Asus -->
    <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="gh" revision="cm-11.0" />
   <!-- Google -->
+  
+<!-- Devices Removed due to Unified builds -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt925" path="device/motorola/xt925" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt926" path="device/motorola/xt926" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt1060" path="device/motorola/xt1060" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt1058" path="device/motorola/xt1058" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_motorola_xt1053" path="device/motorola/xt1053" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_motorola_xt897" path="device/motorola/xt897" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_p3113" path='device/samsung/p3113' remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_jfltespr" path="device/samsung/jfltespr" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="GraberRoms/android_device_samsung_d2vzw" path="device/samsung/d2vzw" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" remote="gh" revision="cm-11.0" /> -->
+   <!-- <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" remote="gh" revision="cm-11.0" /> -->
 </manifest>
