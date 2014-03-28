@@ -121,5 +121,7 @@
    <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="gh" revision="cm-11.0" />    
   <!-- HTC -->
    <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="gh" revision="cm-11.0" />
+  <!-- Asus -->
+   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="gh" revision="cm-11.0" />
 
 </manifest>
