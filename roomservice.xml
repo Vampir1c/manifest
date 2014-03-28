@@ -8,7 +8,7 @@
  <!-- <remove-project name="scotthartbti/android_framworks_base" /> -->
 
 <!-- Beanstalk Fixes from Graber Roms -->
- <project name="GraberRoms/android_frameworks_base" path="frameworks/base" remote="gh" revision="cm-11.0" />
+ <project name="GraberRoms/android_frameworks_base" path="frameworks/base" remote="gh" revision="kk44" />
 
 <!-- CM Vendor  -->
   <project name="GraberRoms/proprietary_vendor_cm" path="vendor/cm" remote="gh" revision="kk44" />
