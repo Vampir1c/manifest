@@ -5,6 +5,10 @@
   
 <!-- Beanstalk removals -->
   <remove-project name="scotthartbti/proprietary_vendor_cm" />
+  <remove-project name="scotthartbti/android_framworks_base" />
+
+<!-- Beanstalk Fixes from Graber Roms -->
+ <project name="GraberRoms/android_frameworks_base" path="frameworks/base" remote="gh" revision="cm-11.0" />
 
 <!-- CM Vendor  -->
   <project name="GraberRoms/proprietary_vendor_cm" path="vendor/cm" remote="gh" revision="kk44" />
