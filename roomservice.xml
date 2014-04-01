@@ -18,7 +18,7 @@
    <!-- Moto msm8960 tree (xt897,mb886,xt907,xt905,xt901,xt926,xt925) -->
     <project name="GraberRoms/android_device_motorola_moto_msm8960" path="device/motorola/moto_msm8960" remote="gh" revision="cm-11.0" />
    <!-- Moto msm8960 & msm8960dt common --> 
-    <project name="GraberRoms/android_device_qcom_common" path="device/qcom/common" remote="gh" revision="cm-11.0" />
+    <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="gh" revision="cm-11.0" />
    <!-- Moto msm8960dt tree (xt1053,xt1055,xt1056,xt1058,xt1060,xt1080) -->
     <project name="GraberRoms/android_device_motorola_moto_msm8960dt" path="device/motorola/moto_msm8960dt" remote="gh" revision="cm-11.0" />
   <!-- Samsung -->
