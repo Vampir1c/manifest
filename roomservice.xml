@@ -5,7 +5,7 @@
   
 <!-- Beanstalk removals -->
 
-  <remove-project name="scotthartbti/android_framworks_base" /> 
+<!--  <remove-project name="scotthartbti/android_framworks_base" /> -->
 
 <!-- Beanstalk Fixes from Graber Roms -->
   <project name="GraberRoms/android_frameworks_base" path="frameworks/base" remote="gh" revision="kk44" /> -->
