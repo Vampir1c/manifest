@@ -9,7 +9,7 @@
 
 <!-- Beanstalk Fixes from Graber Roms -->
   <project name="GraberRoms/android_frameworks_base" path="frameworks/base" remote="gh" revision="kk44" /> -->
-  <project name="GraberRoms/android_packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="kk44" /> -->
+ <!-- <project name="GraberRoms/android_packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="kk44" /> -->
 
 <!-- CM Vendor  -->
    <project name="GraberRoms/proprietary_vendor_cm" path="vendor/cm" remote="gh" revision="kk44" /> 
