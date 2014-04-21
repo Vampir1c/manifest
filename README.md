@@ -26,10 +26,10 @@ Sync up once:
 
 Then download additional repo's for officially supported devices:
 
-    curl -L -o .repo/local_manifests/roomservice.xml -O -L https://raw.github.com/GraberRoms/manifest/cm-11.0/roomservice.xml
+    curl -L -o .repo/local_manifests/roomservice.xml -O -L https://raw.github.com/GraberRoms/manifest/cm-11.0/kitstalk.xml
  
     	( or Download: https://github.com/GraberRoms/manifest/blob/cm-11.0/roomservice.xml
-		and place it in ~/Android/.repo/local_manifests/roomservice.xml (or ~/'name you chose'/.repo/local_manifests/ )
+		and place it in ~/Android/.repo/local_manifests/kitstalk.xml (or ~/'name you chose'/.repo/local_manifests/ )
 
 Then to sync up:
 
